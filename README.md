@@ -2,7 +2,7 @@
 
 ## Burning Bridges VR
 
-![Burning Bridges](./images/icon_bb.png)
+![Burning Bridges](./images/icon_burning.png)
 
 <https://store.steampowered.com/app/818430/BurningBridges_VR/>
 
