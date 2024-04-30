@@ -6,11 +6,23 @@
 
 <https://store.steampowered.com/app/818430/BurningBridges_VR/>
 
+- Player character
+- Interaction logic
+- Subtitles
+- User interface
+- Animations
+
 ## INK
 
 ![INK](./images/icon_ink.png)
 
 <https://store.steampowered.com/app/1156950/INK/>
+
+- Player character
+- Transition effects
+- Particle effects
+- Game logic
+- Animation
 
 ## Smelogs Playground
 
@@ -18,11 +30,17 @@
 
 <https://store.steampowered.com/app/1799530/Smelogs_Playground/>
 
+- Pathfinding
+- Gameplay ability system integration
+
 ## Chex Quest HD
 
 ![Chex Quest](./images/icon_cq.png)
 
 <https://store.steampowered.com/app/804270/Chex_Quest_HD/>
+
+- Player character
+- Environmental interactions
 
 ## Idle Breaker
 
