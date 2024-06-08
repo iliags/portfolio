@@ -47,3 +47,15 @@
 ![Idle Breaker](./images/icon_ib.png)
 
 <https://jinc.itch.io/idle-breaker>
+
+## Whiteout
+
+![Whiteout](./images/icon_wo.png)
+
+<https://amstaddigital.itch.io/white-out>
+
+- Player character
+- Enemy AI
+- Weapon system
+- Wave spawning
+- Animated sequences
