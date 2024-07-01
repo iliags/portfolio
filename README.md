@@ -48,7 +48,7 @@
 
 <https://jinc.itch.io/idle-breaker>
 
-- Based on the Lyra starter game
+- Uses the Lyra starter game as the base
 
 ## Whiteout
 
