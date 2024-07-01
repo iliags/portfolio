@@ -48,6 +48,8 @@
 
 <https://jinc.itch.io/idle-breaker>
 
+- Based on the Lyra starter game
+
 ## Whiteout
 
 ![Whiteout](./images/icon_wo.png)
