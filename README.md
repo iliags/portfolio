@@ -49,6 +49,7 @@
 <https://jinc.itch.io/idle-breaker>
 
 - Uses the Lyra starter game as the base
+- Custom level editor tool
 
 ## Whiteout
 
