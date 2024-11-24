@@ -1,6 +1,8 @@
 # Portfolio
 
-## Burning Bridges VR
+## Games
+
+### Burning Bridges VR
 
 ![Burning Bridges](./images/icon_burning.png)
 
@@ -12,7 +14,7 @@
 - User interface
 - Animations
 
-## INK
+### INK
 
 ![INK](./images/icon_ink.png)
 
@@ -24,7 +26,7 @@
 - Game logic
 - Animation
 
-## Smelogs Playground
+### Smelogs Playground
 
 ![Smelogs Playground](./images/icon_sp.png)
 
@@ -33,7 +35,7 @@
 - Pathfinding
 - Gameplay ability system integration
 
-## Chex Quest HD
+### Chex Quest HD
 
 ![Chex Quest](./images/icon_cq.png)
 
@@ -42,7 +44,7 @@
 - Player character
 - Environmental interactions
 
-## Idle Breaker
+### Idle Breaker
 
 ![Idle Breaker](./images/icon_ib.png)
 
@@ -51,7 +53,7 @@
 - Uses the Lyra starter game as the base
 - Custom level editor tool
 
-## Whiteout
+### Whiteout
 
 ![Whiteout](./images/icon_wo.png)
 
@@ -62,3 +64,21 @@
 - Weapon system
 - Wave spawning
 - Animated sequences
+
+## Software
+
+### Chip-8 Emulator
+
+![Click Storm](./images/icon_c8.png)
+
+<https://github.com/iliags/chip8>
+
+A small Chip-8 emulator.
+
+### Click Storm
+
+![Click Storm](./images/icon_cs.png)
+
+<https://github.com/iliags/click_storm>
+
+An auto-clicker with limited scripting capability, written in Rust.
